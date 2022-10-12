@@ -42,6 +42,14 @@ Contains code examples for all sorts of machine learning tasks and applications.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+
+  <tr>
+    <td class="tg-yw4l">Linear Regression from Scratch</td>
+    <td class="tg-yw4l">An implementation of linear regression from scratch using stochastic gradient descent</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1br0hM79ORTVNXUpVgkV5t4o4AigGxfwk?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
   
   <tr>
     <td class="tg-yw4l">Logistic Regression from Scratch</td>
@@ -157,7 +165,7 @@ Contains code examples for all sorts of machine learning tasks and applications.
 
    <tr>
     <td class="tg-yw4l">Neural Machine Translation using Transformer</td>
-    <td class="tg-yw4l">An implementation of Transformer to translate human readabke dates in any format to YYYY-MM-DD format.</td>
+    <td class="tg-yw4l">An implementation of Transformer to translate human readable dates in any format to YYYY-MM-DD format.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1Y6JhWMmgU52MU9vyrOnHf6iK760Qx35h?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a><br>
@@ -220,7 +228,7 @@ Contains code examples for all sorts of machine learning tasks and applications.
 
    <tr>
     <td class="tg-yw4l">Object Detection using Sliding Window and Image Pyramid</td>
-    <td class="tg-yw4l">A basic object detection implementation using sliding window and image pyramid on top of an image classifer</td>
+    <td class="tg-yw4l">A basic object detection implementation using sliding window and image pyramid on top of an image classifier</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1CiLN6g7puBheHq-tfk4YB4X-Lgypur8M?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a><br>
@@ -229,7 +237,7 @@ Contains code examples for all sorts of machine learning tasks and applications.
   
    <tr>
     <td class="tg-yw4l">Object Detection using Selective Search</td>
-    <td class="tg-yw4l">A basic object detection implementation using selective search on top of an image classifer</td>
+    <td class="tg-yw4l">A basic object detection implementation using selective search on top of an image classifier</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1C7Zo5JRMrcETMxn-8jRuszrEXXjRbN37?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a><br>
